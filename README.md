@@ -1,6 +1,6 @@
 Hi, I’m @tar-bart013
-I’m interested in servers, website and python also like anarchist ideas
-  I’m currently learning lua
+I’m interested in games, websites and python
+  I’m currently learning zig
   I’m looking to collaborate on big projects
-  How to reach me ...
+  I love Christ
 
